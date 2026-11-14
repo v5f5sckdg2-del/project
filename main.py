@@ -29,7 +29,7 @@ bool_value = True   #bool
 number = '21'         #str'''
 
 #print(type(num))
-#print(type(num_duble))
+#print(type(num_duble))  т  
 #print(type(str_text))
 #print(type(bool_value))
 #print(type(number))
